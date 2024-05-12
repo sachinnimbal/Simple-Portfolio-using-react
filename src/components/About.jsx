@@ -17,6 +17,7 @@ export default function About() {
                 <h1>Sachin Nimbal</h1>
                 <p>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, unde ullam corrupti labore earum recusandae voluptate, optio delectus, architecto nulla eius quae modi quas fugiat rerum dignissimos dolor quod id.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, unde ullam corrupti labore earum recusandae voluptate, optio delectus, architecto nulla eius quae modi quas fugiat rerum dignissimos dolor quod id.
                 </p>
                 <div className="link-chips">
                   <a
