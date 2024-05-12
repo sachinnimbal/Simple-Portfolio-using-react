@@ -38,14 +38,14 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="bx bxl-codepen" />
+              <i className="bx bxl-github" />
             </a>
             <a
               href="https://codepen.io/sachinnimbal"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="bx bxl-github" />
+              <i className="bx bxl-codepen" />
             </a>
             <a
               href="https://www.instagram.com/sachin.kumar.nimbal/"
