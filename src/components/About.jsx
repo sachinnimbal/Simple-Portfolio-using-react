@@ -16,16 +16,7 @@ export default function About() {
               <div className="bio">
                 <h1>Sachin Nimbal</h1>
                 <p>
-                  I am a passionate Full Stack Web Developer and an MCA graduate
-                  from Sharnbasva University with a BCA background. I have
-                  proficiency in Java, SQL, etc, and my expertise spans the
-                  complete web development cycle. Beyond these technologies, I
-                  am a quick learner capable of mastering new technology stacks
-                  as needed. I excel in teamwork, creativity, and leadership,
-                  and have a keen interest in photography and outdoor
-                  activities. Fluent in Kannada, English, and Hindi, I am
-                  actively seeking job opportunities where I can contribute to
-                  organizational success through continuous professional growth.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, unde ullam corrupti labore earum recusandae voluptate, optio delectus, architecto nulla eius quae modi quas fugiat rerum dignissimos dolor quod id.
                 </p>
                 <div className="link-chips">
                   <a
