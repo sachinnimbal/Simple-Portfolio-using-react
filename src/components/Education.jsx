@@ -1,10 +1,10 @@
-export default function Education() {
+export default function Career() {
   return (
     <>
       <div id="education">
         <div className="container">
           <div className="label-container">
-            <h1 className="title">Education History</h1>
+            <h1 className="title">Career Profile</h1>
           </div>
           <div className="education-section">
             <div className="edu">
