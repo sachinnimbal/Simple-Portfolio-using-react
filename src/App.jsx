@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import "./App.css";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Education from "./components/Education";
+import Career from "./components/Career";
 import Footer from "./components/Footer";
 import Home from "./components/Home";
 import Portfolio from "./components/Portfolio";
@@ -107,7 +107,7 @@ export default function App() {
       <About />
       <Skills />
       <Portfolio />
-      <Education />
+      <Career />
       <Contact />
       <Footer />
     </div>
