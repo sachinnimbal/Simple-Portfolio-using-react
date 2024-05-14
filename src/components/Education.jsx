@@ -40,6 +40,25 @@ export default function Education() {
                 </li>
               </ul>
             </div>
+            <div className="edu">
+              <h3>
+                <i className="fa fa-briefcase" /> Work Experience
+              </h3>
+              <ul>
+                <li>
+                  <span>Job Title Here</span>
+                  <small className="year">20XX - Present</small>
+                  <small className="college">Company Name, CityName</small>
+                </li>
+                <li>
+                  <span>Previous Job Title</span>
+                  <small className="year">20XX - 20XX</small>
+                  <small className="college">
+                    Company Name, CityName
+                  </small>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
