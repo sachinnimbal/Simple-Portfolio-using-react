@@ -18,7 +18,7 @@ export default function Footer() {
                 <a href="#portfolio">Portfolio</a>
               </li>
               <li>
-                <a href="#education">Education</a>
+                <a href="#education">Career Profile</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
