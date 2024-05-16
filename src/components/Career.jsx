@@ -28,14 +28,14 @@ export default function Career() {
                   <span>Class 12</span>
                   <small className="year">20XX - 20XX</small>
                   <small className="college">
-                    Class 12 College Name, CityName
+                    College Name, CityName
                   </small>
                 </li>
                 <li>
                   <span>Class 10</span>
                   <small className="year">20XX - 20XX</small>
                   <small className="college">
-                    Class 10 School Name, CityName
+                    School Name, CityName
                   </small>
                 </li>
               </ul>
